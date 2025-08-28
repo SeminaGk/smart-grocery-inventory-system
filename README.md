@@ -6,7 +6,7 @@
 [![Maven](https://img.shields.io/badge/Maven-3.9+-red.svg)](https://maven.apache.org/)
 [![Tests](https://img.shields.io/badge/Tests-19%20Passed-brightgreen.svg)]()
 
-> 🎯 **Built specifically for Picnic's Java Developer role application**
+> 🎯 **
 
 A modern, comprehensive inventory management system designed for grocery warehouses and retail stores. Built with Java 21, Spring Boot 3.x, and PostgreSQL, this application provides real-time inventory tracking, automated stock alerts, and expiration date monitoring.
 
