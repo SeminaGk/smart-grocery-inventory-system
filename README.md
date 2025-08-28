@@ -1,5 +1,14 @@
 # 🛒 Smart Grocery Inventory Management System
 
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue.svg)](https://www.postgresql.org/)
+[![Maven](https://img.shields.io/badge/Maven-3.9+-red.svg)](https://maven.apache.org/)
+[![Tests](https://img.shields.io/badge/Tests-19%20Passed-brightgreen.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> 🎯 **Built specifically for Picnic's Java Developer role application**
+
 A modern, comprehensive inventory management system designed for grocery warehouses and retail stores. Built with Java 21, Spring Boot 3.x, and PostgreSQL, this application provides real-time inventory tracking, automated stock alerts, and expiration date monitoring.
 
 ## 🎯 Project Overview
