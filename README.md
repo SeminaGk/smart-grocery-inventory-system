@@ -5,7 +5,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue.svg)](https://www.postgresql.org/)
 [![Maven](https://img.shields.io/badge/Maven-3.9+-red.svg)](https://maven.apache.org/)
 [![Tests](https://img.shields.io/badge/Tests-19%20Passed-brightgreen.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > 🎯 **Built specifically for Picnic's Java Developer role application**
 
@@ -244,7 +243,7 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can freely use.
 
 ## 🙏 Acknowledgments
 
